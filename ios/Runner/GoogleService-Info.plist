@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>API_KEY</key>
+	<string>AIzaSyBIBmwD_IZOb852EEI1Zommy5aNH1Fidek</string>
+	<key>GCM_SENDER_ID</key>
+	<string>985780567870</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>ai.seventhsense.agent7</string>
+	<key>PROJECT_ID</key>
+	<string>opencv-fr-mobile</string>
+	<key>STORAGE_BUCKET</key>
+	<string>opencv-fr-mobile.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:985780567870:ios:1af70420c87ee70b63f66f</string>
+</dict>
+</plist>
