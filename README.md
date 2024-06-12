@@ -2,7 +2,9 @@
 
 ****Installation****
 ********
-To install and run the Seveenthsense application, follow these steps:
+To install and run the OpenCV Face Recogition Mobile App, follow steps below:
+
+Then, you need an account to login the app, register an account from [OpenCV FR Web Developer Portal](https://developer.opencv.fr/ui/#/onboard/register?details=true) 
 
 **Pull the Project from the Repository:**
 
@@ -68,7 +70,7 @@ Open the project in Xcode by running the following command:
 
 In Xcode, select the appropriate device or simulator, and click the "Run" button to build and install the app.
 
-
+If you face difficulties, email: support@seventhsense.ai 
 
 
 
