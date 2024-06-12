@@ -1,0 +1,20 @@
+<svg width="20" height="20" viewBox="0 0 20 20" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="icon-park-solid:cloud-storage">
+<g id="Mask group">
+<mask id="mask0_494_1305" style="mask-type:luminance" maskUnits="userSpaceOnUse" x="1" y="1" width="18" height="18">
+<g id="Group">
+<g id="Group_2">
+<path id="Vector" d="M18.3334 12.0835H1.66675V17.5002H18.3334V12.0835Z" fill="white" stroke="white" stroke-linejoin="round"/>
+<path id="Vector_2" d="M14.7917 15.8333C15.0679 15.8333 15.3329 15.7236 15.5282 15.5282C15.7236 15.3329 15.8333 15.0679 15.8333 14.7917C15.8333 14.5154 15.7236 14.2504 15.5282 14.0551C15.3329 13.8597 15.0679 13.75 14.7917 13.75C14.5154 13.75 14.2504 13.8597 14.0551 14.0551C13.8597 14.2504 13.75 14.5154 13.75 14.7917C13.75 15.0679 13.8597 15.3329 14.0551 15.5282C14.2504 15.7236 14.5154 15.8333 14.7917 15.8333Z" fill="black"/>
+<path id="Vector_3" d="M1.66675 12.0834L3.76591 2.08301H16.2584L18.3334 12.083" stroke="white" stroke-linejoin="round"/>
+<path id="Vector_4" d="M8.74042 9.5835H8.20708C7.12292 9.5835 6.25 9.16683 6.25 8.13058C6.25 7.29683 7.02625 6.67766 7.91917 6.67766C7.91917 5.41391 8.74042 4.5835 10 4.5835C11.2596 4.5835 12.0862 5.43433 12.0862 6.67766C12.96 6.67766 13.75 7.08308 13.75 8.13058C13.75 9.16683 12.8708 9.5835 11.7867 9.5835H11.245" stroke="white" stroke-linecap="round" stroke-linejoin="round"/>
+<path id="Vector_5" d="M8.3335 9.5835H11.6668" stroke="white"/>
+</g>
+</g>
+</mask>
+<g mask="url(#mask0_494_1305)">
+<path id="Vector_6" d="M0 0H20V20H0V0Z" fill="white"/>
+</g>
+</g>
+</g>
+</svg>
