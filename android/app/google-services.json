@@ -1,0 +1,67 @@
+{
+  "project_info": {
+    "project_number": "985780567870",
+    "project_id": "opencv-fr-mobile",
+    "storage_bucket": "opencv-fr-mobile.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:985780567870:android:e17f23bb173f689e63f66f",
+        "android_client_info": {
+          "package_name": "ai.seventhsense.agent7"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCZ_i0CIgYw3Khh_v_cH2_ddEZxNQ0FXas"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:985780567870:android:868b6c0a1436059763f66f",
+        "android_client_info": {
+          "package_name": "ai.seventhsense.opencvfr"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCZ_i0CIgYw3Khh_v_cH2_ddEZxNQ0FXas"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:985780567870:android:cd720c6e4df4fa4063f66f",
+        "android_client_info": {
+          "package_name": "com.example.faceapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCZ_i0CIgYw3Khh_v_cH2_ddEZxNQ0FXas"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
