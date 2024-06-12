@@ -40,7 +40,7 @@ During the build and run process, Flutter will automatically handle the necessar
 
 **Android**
 
-    **Using Visual Studio Code**
+***Using Visual Studio Code***
 
         Open the project in VSCode.
 
@@ -50,7 +50,7 @@ During the build and run process, Flutter will automatically handle the necessar
 
         `flutter run`
 
-    **Using Android Studio**
+***Using Android Studio***
 
         Open the project in Android Studio.
 
